@@ -11,5 +11,8 @@
     "node"
   ],
   "author": "asjoy",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.4.17"
+  }
 }
